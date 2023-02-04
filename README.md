@@ -19,6 +19,7 @@ https://www.home-assistant.io/integrations/#search/microsoft
 [Microsoft Teams Presence Status to MQTT Server to Home Assistant to LED Cube](https://github.com/ultrara1n/teams-presence-mqtt)
 
 
+
 ## NOT Microsoft Graph
 [Microsoft Edge TTS for Home Assistant](https://github.com/hasscc/hass-edge-tts)
 
@@ -27,10 +28,12 @@ https://www.home-assistant.io/integrations/#search/microsoft
 [Microsoft Text-to-Speech that changes options dynamically](https://github.com/realthk/microsoft_tts)
 
 
+
 # Solutions
 These are either built on top of Custom Components, or don't require them at all.
 ## Microsoft Graph
 [Raise your desk automatically when in a Teams call or meeting](https://github.com/loryanstrant/HA-ESPHome-TeamsDesk)
+
 
 
 ## NOT Microsoft Graph 
