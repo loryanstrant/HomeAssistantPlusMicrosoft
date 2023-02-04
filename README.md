@@ -1,3 +1,8 @@
+[![LinkedIn Profile][badge_linkedin]][link_linkedin]
+[![Link Mastodon][badge_mastodon]][link_mastodon]
+[![Follow on Twitter][badge_twitter]][link_twitter]
+[![Check my blog][badge_blog]][link_blog]
+
 # Home Assistant + Microsoft = awesomeness
 A listing of Home Assistant integrations with Microsoft technologies, and solutions using them.
 
@@ -41,3 +46,12 @@ These are either built on top of Custom Components, or don't require them at all
 
 [A simple command line application that connects to the local Teams API and forwards the meeting status to any endpoint](https://github.com/svrooij/teams-monitor)
 
+
+[badge_blog]: https://img.shields.io/badge/www.loryanstrant.com-blue?style=for-the-badge
+[badge_linkedin]: https://img.shields.io/badge/LinkedIn-loryanstrant-blue?style=for-the-badge&logo=linkedin
+[badge_mastodon]: https://img.shields.io/mastodon/follow/109262349065015855?domain=https%3A%2F%2Fmastodon.online&label=%40loryanstrant%40mastodon.online&logo=mastodon&logoColor=white&style=for-the-badge
+[badge_twitter]: https://img.shields.io/twitter/follow/loryanstrant?logo=twitter&style=for-the-badge
+[link_blog]: https://www.loryanstrant.com
+[link_linkedin]: https://www.linkedin.com/in/loryanstrant
+[link_mastodon]: https://mastodon.online/@LoryanStrant
+[link_twitter]: https://twitter.com/LoryanStrant
