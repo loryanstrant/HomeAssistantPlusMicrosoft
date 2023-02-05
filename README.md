@@ -46,6 +46,8 @@ These are either built on top of Custom Components, or don't require them at all
 
 [A simple command line application that connects to the local Teams API and forwards the meeting status to any endpoint](https://github.com/svrooij/teams-monitor)
 
+[Send and receive Teams Meetings events to an MQTT Broker](https://github.com/MrRoundRobin/TeamsMqttBridge)
+
 
 [badge_blog]: https://img.shields.io/badge/www.loryanstrant.com-blue?style=for-the-badge
 [badge_linkedin]: https://img.shields.io/badge/LinkedIn-loryanstrant-blue?style=for-the-badge&logo=linkedin
