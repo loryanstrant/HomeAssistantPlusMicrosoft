@@ -48,6 +48,8 @@ These are either built on top of Custom Components, or don't require them at all
 
 [Send and receive Teams Meetings events to an MQTT Broker](https://github.com/MrRoundRobin/TeamsMqttBridge)
 
+[Displaying multiple Fitbit accounts in Home Assistant using Azure Logic Apps](https://www.loryanstrant.com/2023/02/12/displaying-multiple-fitbit-accounts-in-home-assistant-using-azure-logic-apps/)
+
 
 [badge_blog]: https://img.shields.io/badge/www.loryanstrant.com-blue?style=for-the-badge
 [badge_linkedin]: https://img.shields.io/badge/LinkedIn-loryanstrant-blue?style=for-the-badge&logo=linkedin
