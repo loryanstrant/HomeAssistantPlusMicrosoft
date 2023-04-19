@@ -32,6 +32,8 @@ https://www.home-assistant.io/integrations/#search/microsoft
 
 [Microsoft Text-to-Speech that changes options dynamically](https://github.com/realthk/microsoft_tts)
 
+[Azure OpenAI Conversation for Home Assistant](https://github.com/joselcaguilar/azure-openai-ha)
+
 
 
 # Solutions
