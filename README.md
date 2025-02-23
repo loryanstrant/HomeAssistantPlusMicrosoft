@@ -15,7 +15,11 @@ https://www.home-assistant.io/integrations/#search/microsoft
 
 # Custom Components (HACS)
 ## Microsoft Graph
-[Office 365 Integration for Home Assistant](https://github.com/RogerSelwyn/O365-HomeAssistant)
+[Office 365 Integration for Home Assistant](https://github.com/RogerSelwyn/O365-HomeAssistant) (moving towards EOL)
+[Microsoft 365 Calendar Integration for Home Assistant](https://github.com/RogerSelwyn/MS365-Calendar)
+[Microsoft 365 Mail Integration for Home Assistant](https://github.com/RogerSelwyn/MS365-Mail)
+[Microsoft 365 Teams Integration for Home Assistant](https://github.com/RogerSelwyn/MS365-Teams)
+[Microsoft 365 To Do Integration for Home Assistant](https://github.com/RogerSelwyn/MS365-ToDo)
 
 [Detects the authorized user's Microsoft Teams availability](https://github.com/geoffreylagaisse/Hass-Microsoft-Graph)
 
